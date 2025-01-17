@@ -1,7 +1,4 @@
 # Fathershops-DevOps-Assignment
-
-# Fathershops-DevOps-Assignment
-
 Ensure the following tools are installed and configured:
 
 1. Terraform
