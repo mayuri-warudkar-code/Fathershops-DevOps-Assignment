@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: wordpress-config
+data:
+  DB_HOST: "wordpress-rds.c7c4u4kaomg2.us-east-1.rds.amazonaws.com"
+  DB_USER: "user"
+  DB_PASSWORD: "password"
+  MEMCACHED_SERVERS: "memcached-cluster.x8zfsh.0001.use1.cache.amazonaws.com:11211"
+
